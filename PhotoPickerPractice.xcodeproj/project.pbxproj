@@ -12,9 +12,22 @@
 		3DEDCFEF215F36FD00C89FC3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DEDCFED215F36FD00C89FC3 /* Main.storyboard */; };
 		3DEDCFF1215F36FE00C89FC3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DEDCFF0215F36FE00C89FC3 /* Assets.xcassets */; };
 		3DEDCFF4215F36FE00C89FC3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DEDCFF2215F36FE00C89FC3 /* LaunchScreen.storyboard */; };
+		C31D8B19215F675E00F6B3F3 /* Mikeneko.png in Resources */ = {isa = PBXBuildFile; fileRef = C31D8B0F215F675E00F6B3F3 /* Mikeneko.png */; };
+		C31D8B1A215F675E00F6B3F3 /* Pug.png in Resources */ = {isa = PBXBuildFile; fileRef = C31D8B10215F675E00F6B3F3 /* Pug.png */; };
+		C31D8B1B215F675E00F6B3F3 /* Chihuahua.png in Resources */ = {isa = PBXBuildFile; fileRef = C31D8B11215F675E00F6B3F3 /* Chihuahua.png */; };
+		C31D8B1C215F675E00F6B3F3 /* American Shorthair.png in Resources */ = {isa = PBXBuildFile; fileRef = C31D8B12215F675E00F6B3F3 /* American Shorthair.png */; };
+		C31D8B1D215F675E00F6B3F3 /* Persian.png in Resources */ = {isa = PBXBuildFile; fileRef = C31D8B13215F675E00F6B3F3 /* Persian.png */; };
+		C31D8B1E215F675E00F6B3F3 /* Maltese.png in Resources */ = {isa = PBXBuildFile; fileRef = C31D8B14215F675E00F6B3F3 /* Maltese.png */; };
+		C31D8B1F215F675E00F6B3F3 /* Corgi.png in Resources */ = {isa = PBXBuildFile; fileRef = C31D8B15215F675E00F6B3F3 /* Corgi.png */; };
+		C31D8B20215F675E00F6B3F3 /* Munchkin.png in Resources */ = {isa = PBXBuildFile; fileRef = C31D8B16215F675E00F6B3F3 /* Munchkin.png */; };
+		C31D8B21215F675E00F6B3F3 /* Russian Blue.png in Resources */ = {isa = PBXBuildFile; fileRef = C31D8B17215F675E00F6B3F3 /* Russian Blue.png */; };
+		C31D8B22215F675E00F6B3F3 /* Miniature Dachshund.png in Resources */ = {isa = PBXBuildFile; fileRef = C31D8B18215F675E00F6B3F3 /* Miniature Dachshund.png */; };
+		F456AA7B7AD01BFCC20338C4 /* Pods_PhotoPickerPractice.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F7834AD5049A4711511602F /* Pods_PhotoPickerPractice.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0F7834AD5049A4711511602F /* Pods_PhotoPickerPractice.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PhotoPickerPractice.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		10659203599FF01DC08DBB09 /* Pods-PhotoPickerPractice.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PhotoPickerPractice.release.xcconfig"; path = "Pods/Target Support Files/Pods-PhotoPickerPractice/Pods-PhotoPickerPractice.release.xcconfig"; sourceTree = "<group>"; };
 		3DEDCFE6215F36FD00C89FC3 /* PhotoPickerPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PhotoPickerPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DEDCFE9215F36FD00C89FC3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3DEDCFEB215F36FD00C89FC3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +35,17 @@
 		3DEDCFF0215F36FE00C89FC3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3DEDCFF3215F36FE00C89FC3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3DEDCFF5215F36FE00C89FC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B57E7A1A9D5ECCB0C7360B78 /* Pods-PhotoPickerPractice.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PhotoPickerPractice.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PhotoPickerPractice/Pods-PhotoPickerPractice.debug.xcconfig"; sourceTree = "<group>"; };
+		C31D8B0F215F675E00F6B3F3 /* Mikeneko.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mikeneko.png; sourceTree = "<group>"; };
+		C31D8B10215F675E00F6B3F3 /* Pug.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pug.png; sourceTree = "<group>"; };
+		C31D8B11215F675E00F6B3F3 /* Chihuahua.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chihuahua.png; sourceTree = "<group>"; };
+		C31D8B12215F675E00F6B3F3 /* American Shorthair.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "American Shorthair.png"; sourceTree = "<group>"; };
+		C31D8B13215F675E00F6B3F3 /* Persian.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Persian.png; sourceTree = "<group>"; };
+		C31D8B14215F675E00F6B3F3 /* Maltese.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Maltese.png; sourceTree = "<group>"; };
+		C31D8B15215F675E00F6B3F3 /* Corgi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Corgi.png; sourceTree = "<group>"; };
+		C31D8B16215F675E00F6B3F3 /* Munchkin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Munchkin.png; sourceTree = "<group>"; };
+		C31D8B17215F675E00F6B3F3 /* Russian Blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Russian Blue.png"; sourceTree = "<group>"; };
+		C31D8B18215F675E00F6B3F3 /* Miniature Dachshund.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Miniature Dachshund.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +53,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F456AA7B7AD01BFCC20338C4 /* Pods_PhotoPickerPractice.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +65,8 @@
 			children = (
 				3DEDCFE8215F36FD00C89FC3 /* PhotoPickerPractice */,
 				3DEDCFE7215F36FD00C89FC3 /* Products */,
+				93B38FFD80311FC1810D439E /* Pods */,
+				A4E759737BAA1E1BDF12087E /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,12 +83,47 @@
 			children = (
 				3DEDCFE9215F36FD00C89FC3 /* AppDelegate.swift */,
 				3DEDCFEB215F36FD00C89FC3 /* ViewController.swift */,
+				C31D8B0E215F675E00F6B3F3 /* animal_images */,
 				3DEDCFED215F36FD00C89FC3 /* Main.storyboard */,
 				3DEDCFF0215F36FE00C89FC3 /* Assets.xcassets */,
 				3DEDCFF2215F36FE00C89FC3 /* LaunchScreen.storyboard */,
 				3DEDCFF5215F36FE00C89FC3 /* Info.plist */,
 			);
 			path = PhotoPickerPractice;
+			sourceTree = "<group>";
+		};
+		93B38FFD80311FC1810D439E /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B57E7A1A9D5ECCB0C7360B78 /* Pods-PhotoPickerPractice.debug.xcconfig */,
+				10659203599FF01DC08DBB09 /* Pods-PhotoPickerPractice.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		A4E759737BAA1E1BDF12087E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0F7834AD5049A4711511602F /* Pods_PhotoPickerPractice.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C31D8B0E215F675E00F6B3F3 /* animal_images */ = {
+			isa = PBXGroup;
+			children = (
+				C31D8B0F215F675E00F6B3F3 /* Mikeneko.png */,
+				C31D8B10215F675E00F6B3F3 /* Pug.png */,
+				C31D8B11215F675E00F6B3F3 /* Chihuahua.png */,
+				C31D8B12215F675E00F6B3F3 /* American Shorthair.png */,
+				C31D8B13215F675E00F6B3F3 /* Persian.png */,
+				C31D8B14215F675E00F6B3F3 /* Maltese.png */,
+				C31D8B15215F675E00F6B3F3 /* Corgi.png */,
+				C31D8B16215F675E00F6B3F3 /* Munchkin.png */,
+				C31D8B17215F675E00F6B3F3 /* Russian Blue.png */,
+				C31D8B18215F675E00F6B3F3 /* Miniature Dachshund.png */,
+			);
+			path = animal_images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +133,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3DEDCFF8215F36FE00C89FC3 /* Build configuration list for PBXNativeTarget "PhotoPickerPractice" */;
 			buildPhases = (
+				312488E299EEC250B840B6A2 /* [CP] Check Pods Manifest.lock */,
 				3DEDCFE2215F36FD00C89FC3 /* Sources */,
 				3DEDCFE3215F36FD00C89FC3 /* Frameworks */,
 				3DEDCFE4215F36FD00C89FC3 /* Resources */,
+				11E9BA488ED101C49DC2B250 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -122,13 +186,70 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C31D8B20215F675E00F6B3F3 /* Munchkin.png in Resources */,
+				C31D8B1D215F675E00F6B3F3 /* Persian.png in Resources */,
 				3DEDCFF4215F36FE00C89FC3 /* LaunchScreen.storyboard in Resources */,
+				C31D8B1F215F675E00F6B3F3 /* Corgi.png in Resources */,
+				C31D8B21215F675E00F6B3F3 /* Russian Blue.png in Resources */,
 				3DEDCFF1215F36FE00C89FC3 /* Assets.xcassets in Resources */,
+				C31D8B22215F675E00F6B3F3 /* Miniature Dachshund.png in Resources */,
+				C31D8B19215F675E00F6B3F3 /* Mikeneko.png in Resources */,
+				C31D8B1E215F675E00F6B3F3 /* Maltese.png in Resources */,
 				3DEDCFEF215F36FD00C89FC3 /* Main.storyboard in Resources */,
+				C31D8B1B215F675E00F6B3F3 /* Chihuahua.png in Resources */,
+				C31D8B1A215F675E00F6B3F3 /* Pug.png in Resources */,
+				C31D8B1C215F675E00F6B3F3 /* American Shorthair.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		11E9BA488ED101C49DC2B250 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-PhotoPickerPractice/Pods-PhotoPickerPractice-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/TLPhotoPicker/TLPhotoPicker.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TLPhotoPicker.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-PhotoPickerPractice/Pods-PhotoPickerPractice-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		312488E299EEC250B840B6A2 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-PhotoPickerPractice-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		3DEDCFE2215F36FD00C89FC3 /* Sources */ = {
@@ -278,6 +399,7 @@
 		};
 		3DEDCFF9215F36FE00C89FC3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B57E7A1A9D5ECCB0C7360B78 /* Pods-PhotoPickerPractice.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -296,6 +418,7 @@
 		};
 		3DEDCFFA215F36FE00C89FC3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 10659203599FF01DC08DBB09 /* Pods-PhotoPickerPractice.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
