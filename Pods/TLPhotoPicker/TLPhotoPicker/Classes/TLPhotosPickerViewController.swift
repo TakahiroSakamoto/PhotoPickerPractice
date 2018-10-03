@@ -424,7 +424,8 @@ extension TLPhotosPickerViewController {
             self.orderUpdateCells()
         }
         if let max = self.configure.maxSelectedAssets, max <= self.selectedAssets.count {
-            self.delegate?.didExceedMaximumNumberOfSelection(picker: self)
+            self.delegate?.didExceedMaximumNumberOfSelection(
+                picker: self)
             self.didExceedMaximumNumberOfSelection?(self)
             return true
         }
